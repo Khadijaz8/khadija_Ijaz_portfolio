@@ -14,35 +14,35 @@ const Work = () => {
       description: "A modern AI Resume Analyzer uses NLP to extract, analyze, and optimize resumes, providing job role predictions, skill recommendations, and recruiter insights.",
       technologies: ["Python", "API", "tailwind css", "MYSQL","HTML"],
       github: "https://github.com/Khadijaz8/Resumer",
-            image: "/Resumer.PNG"
+            image: "/Resumer.png"
     },
     {
       title: "Ceaser Cipher",
       description: "A secure Developed a Caesar Cipher tool for encrypting and decrypting messages using shift-based substitution, enhancing cryptography learning.",
       technologies: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Khadijaz8/PRODIGY_CS_01",
-         image: "/ceaserCipher.PNG"
+         image: "/ceaserCipher.png"
     },
     {
       title: "Currency Converter",
       description: "Built a responsive currency converter for real-time currency conversion with live exchange rates and an interactive interface.",
       technologies: ["HTML", "CSS","JavaScript","API"],
       github: "https://github.com/Khadijaz8/currency-converter", 
-      image: "/currencyconverter.PNG"
+      image: "/currencyconverter.png"
     },
     {
       title: "Ecommerce Store",
       description: "Developed a fully functional e-commerce store with a modern UI, product listings, secure authentication, and a seamless shopping experience.",
       technologies: ["HTML", "CSS","JavaScript","API","Node.js","Express.js","JWT"],
       github: "https://github.com/Khadijaz8/ecommerce-website", 
-          image: "/ecommerce.PNG"
+          image: "/ecommerce.png"
     },
     {
       title: "Tic Tac Toe Game",
       description: "Created a classic Tic-Tac-Toe game with an interactive UI, smooth gameplay, and intelligent game logic for player vs. player mode. Designed for an enjoyable experience across all devices.",
       technologies: ["JavaScript", "CSS", "HTML"],
       github: "https://github.com/Khadijaz8/tic-tac-toe", 
-           image: "/Tictactoe.PNG"
+           image: "/Tictactoe.png"
     },
    
   ]
