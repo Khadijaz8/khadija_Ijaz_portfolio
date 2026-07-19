@@ -48,7 +48,7 @@ I also have a strong interest in cybersecurity and web penetration testing, ensu
               <span className="relative z-10">Download Resume</span>
             </a>
             <a
-              href="mailto:khadijaijaz24680@gmail.com"
+              href="mailto:@gmail.com"
               className="w-full sm:w-auto px-6 py-2 text-base font-medium border-2 border-primary-purple dark:border-primary-orange text-primary-purple dark:text-primary-orange rounded-full overflow-hidden transition-all duration-500 hover:shadow-[0_0_20px_rgba(195,55,100,0.3)] dark:hover:shadow-[0_0_20px_rgba(255,126,95,0.3)]"
             >
               <span className="relative z-10">Contact Me</span>
