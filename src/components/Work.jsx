@@ -29,7 +29,7 @@ const Work = () => {
       description: "Built a responsive currency converter for real-time currency conversion with live exchange rates and an interactive interface.",
       technologies: ["HTML", "CSS","JavaScript","API"],
       github: "https://github.com/Khadijaz8/currency-converter", 
-      image: "/khadija_Ijaz_portfolio/currency.png"
+      image: "/currency.png"
     },
     {
       title: "Ecommerce Store",
