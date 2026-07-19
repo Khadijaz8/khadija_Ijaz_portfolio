@@ -25,16 +25,16 @@ I also have a strong interest in cybersecurity and web penetration testing, ensu
                       </p>
 
           <div className="mt-10 flex justify-center gap-4">
-            <a href="https://github.com/Khadijaz8" target='_blank' className="group relative p-2 rounded-full bg-gradient-to-r from-primary-purple/20 to-primary-pink/20 dark:from-primary-orange/20 dark:to-primary-pink/20 hover:from-primary-purple/30 hover:to-primary-pink/30 dark:hover:from-primary-orange/30 dark:hover:to-primary-pink/30 transition-all duration-300">
+            <a href="#" target='_blank' className="group relative p-2 rounded-full bg-gradient-to-r from-primary-purple/20 to-primary-pink/20 dark:from-primary-orange/20 dark:to-primary-pink/20 hover:from-primary-purple/30 hover:to-primary-pink/30 dark:hover:from-primary-orange/30 dark:hover:to-primary-pink/30 transition-all duration-300">
               <FaGithub className="w-6 h-6 text-gray-700 dark:text-gray-300 group-hover:text-primary-purple dark:group-hover:text-primary-orange transform group-hover:rotate-12 transition-all duration-300" />
               
               <span className="absolute -bottom-6 left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 text-xs text-gray-600 dark:text-gray-400 transition-opacity duration-300">GitHub</span>
             </a>
-            <a href="https://www.linkedin.com/in/khadijaijaz8" target='_blank' className="group relative p-2 rounded-full bg-gradient-to-r from-primary-purple/20 to-primary-pink/20 dark:from-primary-orange/20 dark:to-primary-pink/20 hover:from-primary-purple/30 hover:to-primary-pink/30 dark:hover:from-primary-orange/30 dark:hover:to-primary-pink/30 transition-all duration-300">
+            <a href="#" target='_blank' className="group relative p-2 rounded-full bg-gradient-to-r from-primary-purple/20 to-primary-pink/20 dark:from-primary-orange/20 dark:to-primary-pink/20 hover:from-primary-purple/30 hover:to-primary-pink/30 dark:hover:from-primary-orange/30 dark:hover:to-primary-pink/30 transition-all duration-300">
               <FaLinkedin className="w-6 h-6 text-gray-700 dark:text-gray-300 group-hover:text-primary-purple dark:group-hover:text-primary-orange transform group-hover:rotate-12 transition-all duration-300" />
               <span className="absolute -bottom-6 left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 text-xs text-gray-600 dark:text-gray-400 transition-opacity duration-300">LinkedIn</span>
             </a>
-            <a href="https://www.facebook.com/share/14atDT4zx6/?mibextid=qi2Omg" target='_blank' className="group relative p-2 rounded-full bg-gradient-to-r from-primary-purple/20 to-primary-pink/20 dark:from-primary-orange/20 dark:to-primary-pink/20 hover:from-primary-purple/30 hover:to-primary-pink/30 dark:hover:from-primary-orange/30 dark:hover:to-primary-pink/30 transition-all duration-300">
+            <a href="#" target='_blank' className="group relative p-2 rounded-full bg-gradient-to-r from-primary-purple/20 to-primary-pink/20 dark:from-primary-orange/20 dark:to-primary-pink/20 hover:from-primary-purple/30 hover:to-primary-pink/30 dark:hover:from-primary-orange/30 dark:hover:to-primary-pink/30 transition-all duration-300">
               <FaFacebook className="w-6 h-6 text-gray-700 dark:text-gray-300 group-hover:text-primary-purple dark:group-hover:text-primary-orange transform group-hover:rotate-12 transition-all duration-300" />
               <span className="absolute -bottom-6 left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 text-xs text-gray-600 dark:text-gray-400 transition-opacity duration-300">Facebook</span>
             </a>
