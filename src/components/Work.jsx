@@ -14,14 +14,14 @@ const Work = () => {
       description: "A modern AI Resume Analyzer uses NLP to extract, analyze, and optimize resumes, providing job role predictions, skill recommendations, and recruiter insights.",
       technologies: ["Python", "API", "tailwind css", "MYSQL","HTML"],
       github: "https://github.com/Khadijaz8/Resumer",
-            image: "/khadija_Ijaz_portfolio/resume.png"
+            image: "/resume.png"
     },
     {
       title: "Ceaser Cipher",
       description: "A secure Developed a Caesar Cipher tool for encrypting and decrypting messages using shift-based substitution, enhancing cryptography learning.",
       technologies: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Khadijaz8/PRODIGY_CS_01",
-         image: "/khadija_Ijaz_portfolio/ceaser.png"
+         image: "/ceaser.png"
  
         },
     {
@@ -36,14 +36,14 @@ const Work = () => {
       description: "Developed a fully functional e-commerce store with a modern UI, product listings, secure authentication, and a seamless shopping experience.",
       technologies: ["HTML", "CSS","JavaScript","API","Node.js","Express.js","JWT"],
       github: "https://github.com/Khadijaz8/ecommerce-website", 
-          image: "/khadija_Ijaz_portfolio/ecommerc.png"
+          image: "/ecommerc.png"
     },
     {
       title: "Tic Tac Toe Game",
       description: "Created a classic Tic-Tac-Toe game with an interactive UI, smooth gameplay, and intelligent game logic for player vs. player mode. Designed for an enjoyable experience across all devices.",
       technologies: ["JavaScript", "CSS", "HTML"],
       github: "https://github.com/Khadijaz8/tic-tac-toe", 
-           image: "/khadija_Ijaz_portfolio/tic.png"
+           image: "/tic.png"
     },
    
   ]
